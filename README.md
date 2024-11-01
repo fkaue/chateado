@@ -3,4 +3,3 @@ acquirements:
 * Java
 * JavaScript
 * Kotlin
-* I'm a student at DR Celso Gama
